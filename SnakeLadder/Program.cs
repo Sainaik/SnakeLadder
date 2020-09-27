@@ -34,6 +34,7 @@ namespace SnakeLadder
 
             play_option = GetPositon(0, 3);
 
+
             switch (play_option)
             {
                 case NO_Play:
@@ -54,13 +55,6 @@ namespace SnakeLadder
                 default:
                     break;
             }
-
-
-
-
-
-
-
 
         }
     }
