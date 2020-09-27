@@ -6,7 +6,6 @@ namespace SnakeLadder
     {
         static void Main(string[] args)
         {
-            Player p1 = new Player();
 
             //Constants
 
