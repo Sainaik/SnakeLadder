@@ -13,7 +13,7 @@ namespace SnakeLadder
         }
         static void Main(string[] args)
         {
-            String player1 = "Player1";
+            
 
             //Constants
 
